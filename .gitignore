@@ -1,3 +1,6 @@
+# vscode
+.vscode/
+
 # scss/sass compile 
-base-styles/base.css*
+base-styles/base.css.map
 intro/styles/styles.css.map
